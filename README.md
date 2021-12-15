@@ -17,7 +17,7 @@ O layout foi desenvolvido pela equipe da Rocketseat
 ### Mobile
 
 <p align="center">
-  <img alt="chapter" title="#chapter" src="https://github.com/jeandsontb/React-Native-Chapter-02/blob/main/Screens/screen.gif" width="300px">
+  <img alt="chapter" title="#chapter" src="https://github.com/jeandsontb/React-Native-Chapter-02/blob/main/Screens/screen.gif" width="260px">
 </p>
 
 <p align="center">
