@@ -18,10 +18,16 @@ O layout foi desenvolvido pela equipe da Rocketseat
 
 <p align="center">
   <img alt="chapter" title="#chapter" src="" width="200px">
+</p>
 
-  <img alt="chapter" title="#chapter" src="" width="200px">
+<p align="center">
+  <img alt="chapter" title="#chapter" src="https://raw.githubusercontent.com/jeandsontb/React-Native-Chapter-02/main/Screens/Screenshot_20211215-181840_todo.jpg" width="200px">
 
-  <img alt="chapter" title="#chapter" src="" width="200px">
+  <img alt="chapter" title="#chapter" src="https://raw.githubusercontent.com/jeandsontb/React-Native-Chapter-02/main/Screens/Screenshot_20211215-181855_todo.jpg" width="200px">
+
+  <img alt="chapter" title="#chapter" src="https://raw.githubusercontent.com/jeandsontb/React-Native-Chapter-02/main/Screens/Screenshot_20211215-181916_todo.jpg" width="200px">
+
+  <img alt="chapter" title="#chapter" src="https://raw.githubusercontent.com/jeandsontb/React-Native-Chapter-02/main/Screens/Screenshot_20211215-181928_todo.jpg" width="200px">
 </p>
 
 ## 🛠 Tecnologias
